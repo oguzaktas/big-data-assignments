@@ -1,5 +1,5 @@
-# Introduction to Big Data Analysis (BLM442) Assignments
-Some of my homework assignments for Introduction to Big Data Analysis (BLM442) course at Kocaeli University in Spring 2019
+# Big Data Analysis Assignments
+Some of my homework assignments for Introduction to Big Data Analysis (BLM442) course at Kocaeli University in Spring 2019.
 
 ## Tasks
 * Keşif Aktivitesi 1: Elektronik tablo (Spreadsheets) Excel veri analizi ve görselleştirme
