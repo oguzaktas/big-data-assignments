@@ -1,6 +1,6 @@
 """
 @author: Oguz Aktas
-notes from Python course by Engin Demiroğ on Udemy
+notes from Intro to Python course by Engin Demiroğ on Udemy
 """
 
 import pandas as pd

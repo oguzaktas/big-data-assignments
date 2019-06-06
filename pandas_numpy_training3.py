@@ -4,7 +4,7 @@
 
 import pandas as pd
 
-notlar = pd.read_csv("grades2.csv") # notlar data frame türünde
+notlar = pd.read_csv("datasets/grades2.csv") # notlar data frame türünde
 notlar.columns = ["İsim", "Soyisim", "SSN", "Test1", "Test2", "Test3", "Test4", "Final", "Sonuc"]
 print(type(notlar)) # <class 'pandas.core.frame.DataFrame'>
 print(notlar.head()) # ilk 5 data
