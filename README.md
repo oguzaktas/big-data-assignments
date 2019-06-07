@@ -4,8 +4,8 @@ Some of my homework assignments for Introduction to Big Data Analysis (BLM442) c
 ## Tasks
 * Keşif Aktivitesi 1: Elektronik tablo (Spreadsheets) Excel veri analizi ve görselleştirme
 * Keşif Aktivitesi 2: SQLite üzerinde veri analizi
-* Keşif Aktivitesi 3: Python Project 1 - Google Map: Query Google Maps to get a route between cities
-* Keşif Aktivitesi 3: Python Project 2 - Game of Life
+* Keşif Aktivitesi 3: Python Project 1 - Google Maps: Query Google Maps to get a route between cities
+* Keşif Aktivitesi 3: Python Project 2 - Conway's Game of Life
 * Geri Bildirim Aktivitesi 1: Tableau kullanarak veriseti üzerinde analiz ve görselleştirme
 * Keşif Aktivitesi 4: Pandas & görselleştirme (matplotlib, seaborn, bokeh)
 * Keşif Aktivitesi 5: Makine Öğrenmesi (scikit-learn LinearRegression, PolynomialRegression and LogisticRegression)
