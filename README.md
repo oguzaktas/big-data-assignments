@@ -1,4 +1,4 @@
-[![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/oguzaktas/big-data-assignments) [![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/oguzaktas/big-data-assignments/master) [![codacy](https://img.shields.io/badge/codacy-B-green.svg)](https://app.codacy.com/project/oguzaktas/big-data-assignments/dashboard) [![maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/oguzaktas/big-data-assignments)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://gke.mybinder.org/v2/gh/oguzaktas/big-data-assignments/master) [![codacy](https://img.shields.io/badge/codacy-B-green.svg)](https://app.codacy.com/project/oguzaktas/big-data-assignments/dashboard) [![maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/oguzaktas/big-data-assignments)
 
 # Big Data Analysis Assignments
 Some of my homework assignments for Introduction to Big Data Analysis (BLM442) course at Kocaeli University in Spring 2019.
